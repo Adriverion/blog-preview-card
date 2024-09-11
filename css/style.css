@@ -38,6 +38,7 @@ main {
     border: 1px solid var(--gray-950);
     border-radius: 20px;
     padding: var(--spacing-200);
+    margin: 0 var(--spacing-200);
     background-color: var(--white);
     box-shadow: var(--gray-950) 8px 8px;
 }
